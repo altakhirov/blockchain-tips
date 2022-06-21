@@ -1,1 +1,1 @@
-# blockchain-tips
+# Blockchain-based tips service
